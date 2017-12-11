@@ -1,1 +1,2 @@
-python
+add coding: utf-8
+
